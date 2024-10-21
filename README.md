@@ -4,7 +4,7 @@ Este projeto contém uma função em JavaScript que verifica se um número é pr
 
 ## Como funciona
 
-A função `ehPrimo(numero)` recebe um número como argumento e retorna `true` se o número for primo e `false` caso contrário. Ela verifica se o número é divisível por qualquer valor entre 2 e a raiz quadrada do número dado. Se encontrar algum divisor, o número não é primo.
+A função `primo(numero)` recebe um número como argumento e retorna `true` se o número for primo e `false` caso contrário. Ela verifica se o número é divisível por qualquer valor entre 2 e a raiz quadrada do número dado. Se encontrar algum divisor, o número não é primo.
 
 ## Requisitos
 
